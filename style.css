@@ -216,7 +216,7 @@ transition: transform 0.2s ease-in;
 /* Features */
 .features-head img , 
 .docs-head img {
-    width: 200px;
+    width: 196px;
     justify-self: flex-end;
 }
 
@@ -388,6 +388,8 @@ transition: transform 0.2s ease-in;
 /* Mobile */
 @media(max-width:500px)
 {
+
+    
 .navbar {
     height: 110px;
 }
